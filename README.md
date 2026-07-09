@@ -1,2 +1,0 @@
-# Java-QuizApplication
-# Quiz Application  A desktop-based Quiz Application developed using Java Swing.  ## Technologies Used  - Java - Java Swing - AWT - Event Handling - OOP Concepts  ## Features  - User Login - Quiz Rules Screen - Multiple Choice Questions - Score Calculation - Play Again Option  ## Screenshots  (Add screenshots here)  ## How to Run  1. Clone the repository 2. Open the project in NetBeans/IntelliJ IDEA 3. Run Login.java
